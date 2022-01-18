@@ -3,7 +3,8 @@ This is a solar system made in OpenGL.
 ![Solar System](https://raw.githubusercontent.com/rogermiranda1000/SolarSystem/master/docs/global.jpg)
 
 ## Dependencies
-- [GLM commit f911117407345b55918918d291be1f6459fc827d](https://github.com/g-truc/glm/tree/f911117407345b55918918d291be1f6459fc827d/glm)
+- include/glm: [GLM commit f911117407345b55918918d291be1f6459fc827d](https://github.com/g-truc/glm/tree/f911117407345b55918918d291be1f6459fc827d/glm)
+- include/GL: [GLEW](https://github.com/nigels-com/glew/releases/tag/glew-2.2.0)
 
 ## Usage
 - Left click + move: orbit the current planet
