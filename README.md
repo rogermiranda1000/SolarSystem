@@ -2,6 +2,9 @@
 This is a solar system made in OpenGL.
 ![Solar System](https://raw.githubusercontent.com/rogermiranda1000/SolarSystem/master/docs/global.jpg)
 
+## Dependencies
+- [GLM](https://github.com/g-truc/glm/tree/master/glm)
+
 ## Usage
 - Left click + move: orbit the current planet
 
