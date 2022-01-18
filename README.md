@@ -5,6 +5,7 @@ This is a solar system made in OpenGL.
 ## Dependencies
 - include/glm: [GLM commit f911117407345b55918918d291be1f6459fc827d](https://github.com/g-truc/glm/tree/f911117407345b55918918d291be1f6459fc827d/glm)
 - include/GL: [GLEW](https://github.com/nigels-com/glew/releases/tag/glew-2.2.0)
+- include/GLFW: [GLFW](https://github.com/glfw/glfw/tree/master/include/GLFW)
 
 ## Usage
 - Left click + move: orbit the current planet
